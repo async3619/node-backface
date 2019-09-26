@@ -1,0 +1,23 @@
+{
+  "name": "node-backface",
+  "version": "0.1.0",
+  "description": "",
+  "main": "hello.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/async3619/node-backface.git"
+  },
+  "author": {
+    "name": "Sophia",
+    "email": "beyondthesophia@gmail.com",
+    "url": "https://github.com/async3619"
+  },
+  "scripts": {
+    "test": "node hello.js"
+  },
+  "dependencies": {
+    "bindings": "~1.2.1",
+    "node-addon-api": "*"
+  },
+  "gypfile": true
+}
